@@ -10,5 +10,6 @@ public class GitStudy {
         System.out.println("master hello5");
         System.out.println("push hello6");
         System.out.println("pull hello7");
+        System.out.println("Gitee");
     }
 }
